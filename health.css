@@ -44,9 +44,30 @@ nav a {
 
 /* Style individual sections */
 #home {
-    background-color: #fff;
+    background-color: #007acc;
+    color: white;
+}
+
+#exercise {
+    background-color: #007acc;
+    color: white;
+}
+
+#contact {
+    background-color: #007acc;
+    color: white;
+    padding: 2rem;
+    margin-right: -35px;
+    margin-left: -35px;
+
+    
 }
 
 footer {
     text-align: center;
+}
+
+#heart {
+    text-align: center;
+    background-color: white;
 }
